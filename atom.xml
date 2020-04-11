@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://clear.github.io</id>
-    <title>Gridea</title>
-    <updated>2020-04-11T05:56:13.234Z</updated>
+    <title>Clear</title>
+    <updated>2020-04-11T10:30:11.634Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://clear.github.io"/>
     <link rel="self" href="https://clear.github.io/atom.xml"/>
     <subtitle>温故而知新</subtitle>
     <logo>https://clear.github.io/images/avatar.png</logo>
     <icon>https://clear.github.io/favicon.ico</icon>
-    <rights>All rights reserved 2020, Gridea</rights>
+    <rights>All rights reserved 2020, Clear</rights>
     <entry>
         <title type="html"><![CDATA[Hello Gridea]]></title>
         <id>https://clear.github.io/post/hello-gridea/</id>
